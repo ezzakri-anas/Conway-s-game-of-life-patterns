@@ -1,0 +1,23 @@
+x = 100, y = 133, skip = 5, fps = 30
+28bo$27boo$13boo11b3obo9boo$13boo10boo13boo$26boo$27bo$$27bo10bo$26boo
+8boobo$25boo8boob3o$26b3obo5bobbo$27boo8boo$28bo6$bboo$bboo9$52bo$51b
+oo$50boo4bo$51boo4boo$bboo5boo$bobbo3bobbo$4booboo$3bobobobo41boo4boo$
+3bobobobo9boo20boo7boo4bo11boo$bo9bo7boo20boo8boo15boo$o11bo39bo$$4boo
+boo$bbobbobobbo$bboob3oboboo$4b5ob4o$5bobooboobo$4boo7boo$4boo7boo$4b
+3o5b3o$6b3ob3o$8bobo$5bobbobobbo$4bobbo3bobbo$5boo5boo4b3o5b3o$17boob
+oo3booboo$17booboboboboboo$18bo3bobo3bo$18bobbo3bobbo$19b3o3b3o3$98boo
+$98boo$98boo$19boo70b3o3b3o$19boo70bobo3bobo$5boo84bobbobobbo$5boo86b
+ooboo3$21boo$21boo$91boo5boo$91booboboboo$91bobbobobbo$91b3o3b3o10$20b
+3o5b3o$20b3o5b3o$21boo5boo$23bo3bo70boo$21bobbobobbo68boo$20bo3bobo3bo
+$21bobbobobbo$21b3o3b3o5$21boo$21boo22$18boo$17bobo$16boobo$17boo26boo
+$18bo25booboo$45bobbo$18bo26bobbo$17boo27boo$8boo6boobo$8boo7bobo26boo
+$18boo25bobbo$45bobbo6boo$44booboo6boo$45boo!
+ Pseudorandom number generator with p46 logic
+
+A glider stream is emitted representing a pseudorandom binary sequence 
+satisfying the recursion  a[n] = a[n-1] XOR a[n-12]. (By spreading out the 
+pattern, the 12 can be changed.)  The sequence has period 3255, so the 
+gun has period 46*3255 = 149730.
+
+By Bill Gosper, October 1989 or earlier (described by Dean Hickerson, 
+4/11/93)

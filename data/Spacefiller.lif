@@ -1,0 +1,35 @@
+x = 49, y = 26, skip = 1, fps = 100
+20b3o3b3o$19bobbo3bobbo$4o18bo3bo18b4o$o3bo17bo3bo17bo3bo$o8bo12bo3bo
+12bo8bo$bobbobboobbo25bobboobbobbo$6bo5bo7b3o3b3o7bo5bo$6bo5bo8bo5bo8b
+o5bo$6bo5bo8b7o8bo5bo$bobbobboobbobboo4bo7bo4boobbobboobbobbo$o8bo3boo
+4b11o4boo3bo8bo$o3bo9boo17boo9bo3bo$4o11b19o11b4o$16bobo11bobo$19b11o$
+19bo9bo$20b9o$24bo$20b3o3b3o$22bo3bo$$21b3ob3o$21b3ob3o$20bobooboobo$
+20b3o3b3o$21bo5bo!
+A small spacefiller.
+
+Spacefillers are the fastest-growing known pattern in Conway's Game of
+Life (probably the fastest possible). They fill space to a density of 1/2,
+conjectured to be the maximum density, and they do it at a speed of c/2 in
+each of the 4 directions, which has been proven to be the maximum
+possible speed.
+
+This pattern starts with 200 cells, not the record lowest number of starting
+cells  for a spacefiller (at the time of this writing, the record is 187). The
+smallest quadratically growing pattern is mosquito, which can start with as
+little as 71 cells, but has a slow growth rate.
+
+The population of spacefillers are easy to compute. This one's equations
+are:
+     [(t+17)^2+511]/4 for t divisible by 4;
+     [(t+17)^2+608]/4 for t mod 4 = 1;
+     [(t+17)^2+563]/4 for t mod 4 = 2;
+     [(t+17)^2+580]/4 for t mod 4 = 3.
+
+Most spacefillers at this time have p2 stretchers on the left and right instead
+of the flipper stretchers in this pattern.
+
+Original idea and middle part by Al Hensel; original construction and
+top/bottom stretchers by Hartmut Holzwart; size optimization by David Bell,
+Al Hensel, and Tim Coe.
+
+This spacefiller by Hartmut Holzwart, 4 Nov 1998.

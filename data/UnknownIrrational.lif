@@ -1,0 +1,25 @@
+x = 91, y = 63, skip = 9, fps = 30
+73bo$74bo6boo$70bo3bo4booboo$71b4o4b4o$80boo3$79bo$57boo20boo$57bo15b
+oo3boboo$46bobo6bobo15bo4bobo$44bo3bo6boo21boo$36bo7bo$35b4o4bo$23boo
+9boobobo4bo$8boo13bo9b3obobbo3bo3bo7boo23boo$8bo25boobobo6bobo7bo22boo
+boo$35b4o24boo14b4o$36bo24booboo14boo$61b4o$62boo$$53b4o$8bo43bo3bo$7b
+3o46bo14b4o$6b5o44bo14bo3bo$5bobobobo38boo22bo$5boo3boo38bo19bobbo$24b
+o$22b4o42boo$8bo7boo5boboo14boo24b5o$7bobo6bo4bobob3o11bobbo20boobbo4b
+o$6boobo13boboo11bo24bo3b3obbo$6b3o13b4o12bo11boo16bobboo$5bobbo15bo5b
+o7bo11bo18boo$5b3o21bo9bobbo$4bo3bo20b3o9boo$3bo5bo$4bo3bo5bo49boo5b4o
+$5b3o7bo46booboo3bo3bo5bo$13b3o21bo24b4o8bo6bo6boo$38bo24boo8bo3bo3bo
+4booboo$32bo5bo39b4o4b4o$33b6o48boo$74boo$41b3o13boo$40b5o4b4o5boo13bo
+bbo7b3o$40b3oboobb6o3bo14booboo5bo3boo$43boo3b4oboo18bob5obbobobboo$5b
+oo45boo20bobb3obo5bo$5bo56boo14bo3bobboo$63boo17bo$11bo22boo26bo21bo$
+8b4o22bo8boo3bo6bo$oo5b4o7bo4boo7bobo10bobo8bo31boo$o6bobbo7boo3bobo6b
+oo9boobbo8bo13boo14booboo$7b4o6bobo4b3o12bo8b9o12b4o13b4o$8b4o13b3o12b
+o28booboo13boo$11bo12b3o8bo4bo30boo$23bobo10b5o8b4o$23boo23b6o$48b4ob
+oo$52boo!
+Unknown Irrational
+
+Population growth appears to be linear. If you can find the rate of
+growth, please let me know. (It's probably irrational, and probably
+different for even and odd generations.) Just proving that the
+pattern never blows up isn't quite trivial.
+
+By Dean Hickerson, dean@math.ucdavis.edu  6/16/91

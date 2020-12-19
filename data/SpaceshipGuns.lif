@@ -1,0 +1,29 @@
+x = 68, y = 179, skip = 1, fps = 30
+46bo$46b3o$49bo$48boo$38bo$36bobo$37bobo$37bo$31boo$32bo7boo$32bobo4bo
+bbo4bo3bo$33boo4b3o4b3o9bo$44boo7boobo$40bo3booboo3bo4bo$41bo4boobo7bo
+$40b3o7bo6bo$45boboo13boo$43boob5obo3bo5bobo$43boobobbo4boo8bo$44b6o
+14boo$47boo3$47boo$47boo$$32bobobbo21bo$32b3oboboo20boo$31bo6bo5bo13b
+oo$32bo5boo3bobo14bo$44boo$31boo5bo$32bo6bo23boo$31boobob3o22bo4bo$33b
+obbobo28bo$61bo5bo$62b6o3$42bo$32bo7bobbo$32b3o4boobbo10bo$35bobbo3boo
+9boo$34bobboo3boo8b3obo9boo$34boobbo3boo7boo13boo$41b3o8boo$41bo11bo$$
+53bo$52boo$51boo13boo$52b3obo9boo$39boboo10boo$37b3oboo11bo$36bo$37b3o
+boo$39bobobbo$43boo18$23b3o14boo$23bo3bo12boo$16bo6bo4bo$14b3o7bo3bo$
+13bo$8bo5b3o7bo3bo7b3o$8b3o5bo6bo4bo5booboboo23bo$11bo11bo3bo5bo5boo
+21bo3bo$10boo11b3o8booboboo26bo$36b3o23bo4bo$6bo56b5o$4bobo$5bobobb3o$
+5bo4b3o$9bo52bo$9boboobbo44boo$10boobbo47boo$11bobbooboo42bo$11boobbo
+bboo$11booboo3bo$oo8bo3boo34boo$bo8boboobo7boo24boobboo$bobo6boboobbo
+6boo24bob4o$bboo10bobbo31b3o$49boobboo11boo$16boo32b3obbo10bo$50boobb
+3o7bobo$52bobbo8boo$52b3o$53bo$13bo$14boo$27bo7boo$28boo4bobo$26boo6bo
+$28bo4boo$16boo21bo$16bo22bobo$17b3o18bobo$19bo20bo$50boo$51bo$48b3o$
+48bo13$48bo$48b3o$51bo$50boo$40bo$38bobo$39bobo$39bo$33boo14bo$34bo13b
+obo$34bobo14bo5bo$35boo14boo4boo$41b4o6boo5boo$41bo3bo13boo$41boobbo
+10bobboo$43bobbobbob3obboobo$44b3obbob3obb3o5boo$36bo7b3obbo14bobo$35b
+obo28bo$35bobo28boo$34booboo3$33bo5bo9boo$32b3o3b3o8boo$31bobbooboobbo
+$31bo3bobo3bo19bo$33bobobobo22boo$60boo$30booboo3booboo19bo$32bo7bo5$
+39bo$38b3o$37bo3bo21bobbo$36bo5bo24bo$36bo5bo20bo3bo$37bo3bo22b4o$$37b
+o3bo$36bo5bo$32boobbo5bo$32boo3bo3bo$38b3o$39bo!
+Smallest examples of spaceship guns.
+
+p184 HWSS gun by Stephen Silver and Dietrich Leithner, June 26, 1998
+p184 MWSS gun by Dietrich Leithner, July 14, 1998
+p184 LWSS gun by Stephen Silver, July 6, 1998

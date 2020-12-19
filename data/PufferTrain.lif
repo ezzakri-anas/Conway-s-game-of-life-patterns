@@ -1,0 +1,13 @@
+x = 5, y = 18, skip = 21, fps = 40
+3bo$4bo$o3bo$b4o4$o$boo$bbo$bbo$bo3$3bo$4bo$o3bo$b4o!
+Puffer train
+
+This was created simply by perturbing
+the sides of a B-heptomino with two
+LWSS's. A B-heptomino is a naturally
+occurring object, a precursor to the
+Herschel pattern, which lurches forward
+at the speed c/2 before its own debris
+usually destroys it. Not in this case!
+The LWSS keep it alive. See Rakes,
+LinePuffer.

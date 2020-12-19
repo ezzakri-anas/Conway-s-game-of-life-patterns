@@ -1,0 +1,26 @@
+x = 260, y = 185, skip = 5, fps = 20
+118bo$108boo8boo$107bobbo5bob3o$106b3oboo8boo$107boboo8boo$107boboo8bo
+$108bobo$108bobo8bo$99bo8bobbo7boo$98boo7boobbo8boo10boo$97b3obo4bo4bo
+4bob3o11boo$96boo8bobboo7boo$97boo7bobbo8bo$98bo8bobo$107bobo$98bo8boo
+bo$97boo8boobo$84boo10boo8boob3o$84boo11b3obo5bobbo$98boo8boo$99bo3$
+137boo$137boo3$138bo5bo$68bo3boo63b3o3b3o$66boobob3o13boo48bobooboobo$
+66bo4b3o13boo47boo7boo$66bo3bo65boo7boo$67b3o66b3o5b3o$81boo3boo50b3ob
+3o$67b3o10b3o3b3o51bobo$66bo3bo7b3o7b3o46bobbobobbo$60boo4bo4b3o4b3o7b
+3o45bobbo3bobbo$60boo4boobob3o4b3o7b3o46boo5boo$68bo3boo6b3o3b3o$81boo
+3boo4$118bo$117bobo$117bobo37b4o$115bobobobo34boobbo14boo$115boo3boo
+33boobbo15boo$156bobbo$157boo$170bo3bo$157boo10bobobobo$156bobbo7boobb
+obobboo$148boo5boobbo7boo7boo$148boo6boobbo6boobbobobboo$122b3o32b4o8b
+obobobo$124bo45bo3bo$123bo8$121bo$111boo6bobbo$108bo4bo5b5o10boo$108bo
+bo3bo4b3oboo9boo$113bo6boobo$109booboo7boo$$113boo6boo$120boobo$109boo
+bbo5b3oboo$109bobbo6b5o$109boobo6bobbo$111bo9bo$104boo$81boo21boobboo$
+80bobo25boo$82bo10$69b3o$71bo32b3o3b3o$70bo33bobbobobbo$104booboboboo$
+104boo5boo5$106booboo$104bobbobobbo$58boo44bobo3bobo63b3o$57bobo44b3o
+3b3o63bo$59bo51boo64bo$111boo$111boo7$188boo$46b3o139bobo$48bo139bo$
+47bo9$35boo162b3o$34bobo162bo$36bo163bo9$211boo$23b3o185bobo$25bo185bo
+$24bo9$12boo208b3o$11bobo208bo$13bo209bo9$234boo$3o231bobo$bbo231bo$bo
+9$245b3o$245bo$246bo9$257boo$257bobo$257bo!
+8-bit serial memory cell
+
+The reset line comes in from the lower left, and the set line comes in from
+the lower right. The set line pre-empts the reset line, so the result shown
+here is that the memory is set to 11111111.

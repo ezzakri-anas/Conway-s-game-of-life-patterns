@@ -1,0 +1,31 @@
+x = 113, y = 75, skip = 21, fps = 40
+85bobo$85bobbo$77bo10boo8bo$76boo8bo3boo5bobo$88boo6boboo$85bobbo6boob
+oo11bo$40bo44bobo8boboo10boo$39b4o54bobo$38boob4o5boo36bo9bo$9boo16boo
+8b3oboo3bo3bobbo33bo$10bo16bo10booboo3bo7bo32b3o$39b5o3bo6bo7bo$40bo3b
+3o7bo6boo$50bobbo38boo$9bo40boo37boobbo$7bo3bo48bo28boobbo$7b5o46bobo
+19bo13bo$6boo3boo35boo6boo13bo8bobo6bob4o$7b5o35bo8boo12boo8boo6boobo$
+8b3o35bo5bo3boo34b3o$9bo36bo5boo4bobo32bo$46bo6bo6bo32boo$38boo7bo47bo
+$32bobobbobo8boo44bo$32boo3bo21bo34bo$33bobboo22boo28b3o$59boo$10bobo
+77b3o$11boo22boo9boo46bo$11bo22bobbo7bobbo45bo$34b3o9b3o46bo$37b9o29b
+oo16boo$36bobb5obbo28bo17bo$4boo3boo25boobb3obboo45b3o$88boobo$4bo5bo
+78bob4o$14bo18bo29bo30bo$5booboo3bobo18bo29bo24boobbo$7bo6bo15bo3bo25b
+o3bo24boobbo$o30b4o26b4o6boo19boo$3o67b4o$3bo5boo59booboo$bboo5bo62boo
+$10b3o47boo$12bo47bo$48bo9bobo$47bobo8boo17boo$4b3o30boo6boo3bo27bo$3b
+o3bo7boo19bobo7bo3bo27bobo5bobo$14bobo18b3o7boo3bo28boo5bobbo$bbo5bo7b
+o9bo7b3o10bobo39boo8bo$bboo3boo17boo7b3o10bo38bo3boo5bobo$36bobo50boo
+6boboo$37boo47bobbo6booboo11bo$86bobo8boboo10boo$55boo41bobo$54bobo42b
+o$56bo31bo$88boo$$83b3o$38bo44bo$36bobo45bo$4boo3boo18boo4bobo14boo$
+29bo4bobbo14b3o42boo$4bo5bo24bobo16boobo6bo33bo$36bobo15bobbo5boo21boo
+12boo6boo$5booboo28bo15boobo27bo14b3o6bo$7bo44b3o19bo9bo15boo$52boo20b
+oo8bo13bo$84bo12boo$85bo$86boo$7bo$7boo!
+Sawtooth: population is unbounded but does not tend to infinity.
+
+Its graph is a sawtooth function with ever-increasing teeth, but the
+population returns to 645 at ever-increasing intervals.
+
+Try putting something in the path of the spaceship, far away from the
+guns. When the tractor beam of LWSSs hits the resulting garbage, very
+frequently a loaf will form and be pulled back. 
+
+Dean Hickerson, dean@math.ucdavis.edu  5/15/92
+Spaceship changed from c/3 to c/5 by Alan Hensel, 8/24/98
